@@ -6,7 +6,7 @@ body {
     min-width: 320px;
     min-height: 100vh;
     font-family: 'Playfair Display', sans-serif;
-    background-color: gray;
+    background-color: white;
   }
 
   ::placeholder {
@@ -61,3 +61,5 @@ body {
   .bar-clicked:last-child {
     transform: rotate(-45deg);
   }
+
+  
