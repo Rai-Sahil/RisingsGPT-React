@@ -25,7 +25,7 @@ const Login = ({ onLogin, onLogout }) => {
 
   const handleLogin = () => {
     // Hardcoded credentials (for demonstration purposes)
-    const hardcodedPassword = "risings123!";
+    const hardcodedPassword = "Risings123!";
 
     if (password === hardcodedPassword) {
       // Set authentication status in session storage
